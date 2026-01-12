@@ -52,10 +52,15 @@ The Student Grade Calculator is a Python program that takes student marks as inp
 ## What I Learned
 
 Decision-making in Python
+
 Looping constructs
+
 Writing reusable functions
+
 Validating user input
+
 Handling runtime errors
+
 Writing structured and readable code
 
 ---
