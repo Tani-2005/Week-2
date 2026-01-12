@@ -41,8 +41,11 @@ The Student Grade Calculator is a Python program that takes student marks as inp
 
 .
 ├── grade_calculator.py
+
 ├── README.md
+
 ├── test_cases.txt
+
 └── screenshots/
 
 ---
