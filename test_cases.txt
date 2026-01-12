@@ -1,0 +1,26 @@
+STUDENT GRADE CALCULATOR – TEST CASES
+
+----------------------------------
+
+Test Case 1:
+Student Name: Anna
+Marks Entered: 20
+Expected Grade: F
+Expected Message: Don't give up! Try harder next time 💡
+Actual Result: Passed
+
+----------------------------------
+
+Test Case 2:
+Student Name: Sam
+Marks Entered: 67
+Expected Grade: D
+Expected Message: You passed. Keep practicing 💪
+Actual Result: Passed
+
+----------------------------------
+
+Conclusion:
+All test cases were executed successfully.
+The program correctly assigns grades, displays appropriate messages,
+and handles invalid inputs using validation and loops.
