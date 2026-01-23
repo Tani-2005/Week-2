@@ -12,7 +12,6 @@ def calculate_grade(marks):
     else:
         return "F", "Don't give up! Try harder next time 💡"
 
-
 # Get student name
 student_name = input("Enter student name: ")
 
